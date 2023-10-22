@@ -3,6 +3,8 @@
 O objetivo deste documento não é o de ser um guia definitivo, mas um instrumento diário para que os iniciantes em Análise de Sistemas e Programação possam orientar seu trabalho.
 
 Toda colaboração é bem vinda, precisamos transferir o conhecimento para as próximas gerações.
+Boa parte do texto foi escrito com a ajuda do ChatGPT.
+Se houver alguma parte de aulgum autor, por favor me informe para a devida mensão. Respeito o Direito Autoral.
 
 A elaboração de algoritmos e programas, independentemente da linguagem de programação, é um dos recursos preciosos, uma vez que faz parte do seu processo de pensamento e desenvolvimento torna clara todo o percurso do desenvolvimento de sistemas.
 
